@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 include:
   - README.md
   - aws-links.md
+kramdown:
+  input: Kramdown

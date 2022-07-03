@@ -1,8 +1,8 @@
-# AWS Links
+# Collection of AWS Links
 
 ### Workshops
 - **AWS Serverless Workshops**  
-  [https://aws.amazon.com/serverless-workshops/](https://aws.amazon.com/serverless-workshops/)  
+  [https://aws.amazon.com/serverless-workshops/](https://aws.amazon.com/serverless-workshops/)
   Introduction to *"the basics of building serverless applications and microservices using services like AWS Lambda, AWS Step Functions, Amazon API Gateway, Amazon DynamoDB, Amazon Kinesis, and Amazon S3."*
 
 - **AWS CI/CD Workshop**  
