@@ -2,5 +2,3 @@ theme: jekyll-theme-time-machine
 include:
   - README.md
   - aws-links.md
-kramdown:
-  input: Kramdown
