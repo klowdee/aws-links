@@ -1,5 +1,18 @@
 # AWS Links
 
+### Workshops
+- **AWS Serverless Workshops**  
+  https://aws.amazon.com/serverless-workshops/  
+  Introduction to *"the basics of building serverless applications and microservices using services like AWS Lambda, AWS Step Functions, Amazon API Gateway, Amazon DynamoDB, Amazon Kinesis, and Amazon S3."*
+
+- **AWS CI/CD Workshop**  
+  https://catalog.us-east-1.prod.workshops.aws/workshops/ef1c179d-8097-4f34-8dc3-0e9eb381b6eb/  
+  *"... leverage the AWS developer tools to implement Continuous Integration (CI) and Continuous Deployment (CD) for your application"*
+
+- **Amazon ECS Workshop**  
+  https://ecsworkshop.com/  
+  *"...launch a frontend and multiple backend services on Amazon Elastic Container Service, and explore how you might adopt this workflow into your environment."*
+
 ### Cloud Practitioner 
 - **AWS Cloud Quest**  
   https://cloudquest.skillbuilder.aws/  
@@ -46,7 +59,7 @@
 - **The Official AWS Podcast**  
   https://aws.amazon.com/podcasts/aws-podcast/    
   Official podcast with regular updates, deep dives, launches, and interviews.
-  
+
 ### Solutions Architect Associate
 - Coming soon
 
