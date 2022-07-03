@@ -6,7 +6,7 @@
   A free 3D-adventure game with awesome hands-on labs.
   
 ### Cheat Sheets
-- **Free AWS Cheat Sheets - Digital Cloud Training**
+- **Free AWS Cheat Sheets - Digital Cloud Training**  
   https://digitalcloud.training/aws-cheat-sheets/  
   Huge assortment of high-quality documentation to help cram for exams.
 
@@ -17,7 +17,7 @@
 
 ### Webinars
 - **AWS Power Hour - Architecting**  
-  https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep
+  https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep  
   Episodic webinars about architecting with AWS
 
 - **Cloud Academy Webinars: AWS Solutions Architect – Associate**  
@@ -33,8 +33,8 @@
 
 ### Blogs
 - **AWS News Blog**  
-  https://aws.amazon.com/blogs/aws/  
-  RSS Feed: https://aws.amazon.com/blogs/aws/feed/  
+  https://aws.amazon.com/blogs/aws/   
+  RSS Feed: https://aws.amazon.com/blogs/aws/feed/   
   All the latest news and announcements from AWS.
 
 - **Elastic Network Interfaces in the Virtual Private Cloud**  
