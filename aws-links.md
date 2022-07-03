@@ -16,11 +16,11 @@
   Official documentation from Amazon
 
 ### Webinars
-- **AWS Power Hour - Architecting**
+- **AWS Power Hour - Architecting**  
   https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep
   Episodic webinars about architecting with AWS
 
-- **Cloud Academy Webinars: AWS Solutions Architect – Associate**
+- **Cloud Academy Webinars: AWS Solutions Architect – Associate**  
   https://cloudacademy.com/blog/aws-certified-solutions-architect-associate-study-guide/  
   Four part webinar focusing on SAA exam prep
 
@@ -32,7 +32,7 @@
   A fully-functioning AWS emulator that can run on your local machine! Great for experimentation and testing!!
 
 ### Blogs
-- **AWS News Blog**
+- **AWS News Blog**  
   https://aws.amazon.com/blogs/aws/  
   RSS Feed: https://aws.amazon.com/blogs/aws/feed/  
   All the latest news and announcements from AWS.
