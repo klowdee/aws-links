@@ -66,7 +66,9 @@
 
 ### Developer Associate
 - Coming soon
+
 ---
+
 ## Misc.
 ### Development 
 - **3factor app**  
