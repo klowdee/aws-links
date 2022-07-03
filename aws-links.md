@@ -49,10 +49,6 @@
   [https://aws.amazon.com/blogs/aws/](https://aws.amazon.com/blogs/aws/)   
   [RSS Feed](https://aws.amazon.com/blogs/aws/feed/)   
   All the latest news and announcements from AWS.
-
-- **Elastic Network Interfaces in the Virtual Private Cloud**  
-  [https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/](https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)  
-  Great blogpost that helps clarify ENIs.   
   
 ### Podcasts
 
@@ -60,8 +56,23 @@
   [https://aws.amazon.com/podcasts/aws-podcast/](https://aws.amazon.com/podcasts/aws-podcast/  )    
   Official podcast with regular updates, deep dives, launches, and interviews.
 
+### CloudFormation
+- **AWS resource and property types reference**  
+  [https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)  
+  A list of all AWS resources currently supported by CloudFormation.
+
 ### Solutions Architect Associate
 - Coming soon
 
 ### Developer Associate
 - Coming soon
+---
+## Misc.
+### Development 
+- **3factor app**  
+  [https://3factor.app/](https://3factor.app/)  
+  Architectural pattern for building modern apps that are *"robust and scalable from the get go by using modern API architectures along with the power of Cloud."*
+
+- **The Twelve-Factor App**  
+  [https://12factor.net/](https://12factor.net/)  
+  Rock-solid methodology to follow when creating services
