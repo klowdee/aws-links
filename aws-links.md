@@ -3,10 +3,11 @@
 
 ### Work <span style="color:cyan">**in progress!!**</span> This is just the beginning. Please check back!
 ---
+Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](https://klowdee.github.io/aws-links/aws-links.html)
 
 ### Workshops
-- **AWS Serverless Workshops**  
-  [https://aws.amazon.com/serverless-workshops/](https://aws.amazon.com/serverless-workshops/)
+- **AWS Serverless Workshops**   
+  [https://aws.amazon.com/serverless-workshops/](https://aws.amazon.com/serverless-workshops/)  
   Introduction to *"the basics of building serverless applications and microservices using services like AWS Lambda, AWS Step Functions, Amazon API Gateway, Amazon DynamoDB, Amazon Kinesis, and Amazon S3."*
 
 - **AWS CI/CD Workshop**  
@@ -66,7 +67,7 @@
   A list of all AWS resources currently supported by CloudFormation.
 
 ### Solutions Architect Associate
-- **AWS Ramp-Up Guide: Architect**
+- **AWS Ramp-Up Guide: Architect**  
   [https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)  
   Curated collection of links to courses, labs, classes, etc. from AWS.
 
