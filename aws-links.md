@@ -1,5 +1,8 @@
-# Collection of AWS Links - Raw/Untargeted 
-## Work in progress
+# Collection of AWS Links - Raw/Main List
+#### <span style="color:yellow"> __*Last updated: 2022-07-04*__</span>
+
+### Work <span style="color:cyan">**in progress!!**</span> This is just the beginning. Please check back!
+---
 
 ### Workshops
 - **AWS Serverless Workshops**  
@@ -63,7 +66,13 @@
   A list of all AWS resources currently supported by CloudFormation.
 
 ### Solutions Architect Associate
-- Coming soon
+- **AWS Ramp-Up Guide: Architect**
+  [https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)  
+  Curated collection of links to courses, labs, classes, etc. from AWS.
+
+- **Exam Readiness: AWS Certified Solutions Architect – Associate (Digital)**
+  [https://explore.skillbuilder.aws/learn/course/external/view/elearning/125/exam-readiness-aws-certified-solutions-architect-associate-digital](https://explore.skillbuilder.aws/learn/course/external/view/elearning/125/exam-readiness-aws-certified-solutions-architect-associate-digital)  
+  (FREE) Official two-hour course with test taking strategies and reviews that you should definitely go through before sitting for the SAA exam. 
 
 ### Developer Associate
 - Coming soon
