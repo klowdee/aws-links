@@ -1,4 +1,5 @@
-# Collection of AWS Links
+# Collection of AWS Links - Raw/Untargeted 
+## Work in progress
 
 ### Workshops
 - **AWS Serverless Workshops**  
