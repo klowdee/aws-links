@@ -85,6 +85,11 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
   [https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)    
   Great list of materials to prepare for the Terraform Associate Certification.
 
+- **Exam Review Guide - Terraform Associate**  
+  [https://learn.hashicorp.com/tutorials/terraform/associate-review](https://learn.hashicorp.com/tutorials/terraform/associate-review)    
+  Direct links to the official Terraform documentation & tutorials for each and every exam objective. 
+
+
 ---
 ## Misc.
 ### Development 
