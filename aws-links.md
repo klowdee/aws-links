@@ -1,5 +1,5 @@
 # Collection of AWS Links - Raw/Main List
-#### <span style="color:yellow"> __*Last updated: 2022-07-04*__</span>
+#### <span style="color:yellow"> __*Last updated: 2022-07-16*__</span>
 
 ### Work <span style="color:cyan">**in progress!!**</span> This is just the beginning. Please check back!
 ---
@@ -7,7 +7,7 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
 
 ### Workshops
 - **AWS Serverless Workshops**   
-  [https://aws.amazon.com/serverless-workshops/](https://aws.amazon.com/serverless-workshops/)  
+  [https://aws.amazon.com/serverless-workshops/](https://aws.amazon.com/serverless-workshops/){:target="_blank"}  
   Introduction to *"the basics of building serverless applications and microservices using services like AWS Lambda, AWS Step Functions, Amazon API Gateway, Amazon DynamoDB, Amazon Kinesis, and Amazon S3."*
 
 - **AWS CI/CD Workshop**  
