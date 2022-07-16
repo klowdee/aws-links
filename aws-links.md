@@ -79,7 +79,13 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
 - Coming soon
 
 ---
+## Terraform
+### Associate Certification
+- **Study Guide - Terraform Associate Certification**  
+  [https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)    
+  Great list of materials to prepare for the Terraform Associate Certification.
 
+---
 ## Misc.
 ### Development 
 - **3factor app**  
