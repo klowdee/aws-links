@@ -17,12 +17,7 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
 - **Amazon ECS Workshop**  
   [https://ecsworkshop.com/](https://ecsworkshop.com/)  
   *"...launch a frontend and multiple backend services on Amazon Elastic Container Service, and explore how you might adopt this workflow into your environment."*
-
-### Cloud Practitioner 
-- **AWS Cloud Quest**  
-  [https://cloudquest.skillbuilder.aws/](https://cloudquest.skillbuilder.aws/)  
-  A free 3D-adventure game with awesome hands-on labs.
-  
+ 
 ### Cheat Sheets
 - **Free AWS Cheat Sheets - Digital Cloud Training**  
   [https://digitalcloud.training/aws-cheat-sheets/](https://digitalcloud.training/aws-cheat-sheets/)  
@@ -66,6 +61,11 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
   [https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)  
   A list of all AWS resources currently supported by CloudFormation.
 
+### Cloud Practitioner 
+- **AWS Cloud Quest**  
+  [https://cloudquest.skillbuilder.aws/](https://cloudquest.skillbuilder.aws/)  
+  A free 3D-adventure game with awesome hands-on labs.
+
 ### Solutions Architect Associate
 - **AWS Ramp-Up Guide: Architect**  
   [https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)  
@@ -76,9 +76,11 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
   (FREE) Official two-hour course with test taking strategies and reviews that you should definitely go through before sitting for the SAA exam. 
 
 ### Developer Associate
-- Coming soon
-
----
+- **Ultimate AWS Certified Developer Associate 2022**  
+  [https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)    
+  Comprehensive overview of all the DVA-C01 exam material with no filler. Excellent value (when on sale), and also included as a [Udemy for Business](https://business.udemy.com/) course.  
+  
+  ---
 ## Terraform
 ### Associate Certification
 - **Study Guide - Terraform Associate Certification**  
