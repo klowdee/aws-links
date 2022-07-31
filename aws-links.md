@@ -102,3 +102,9 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
 - **The Twelve-Factor App**  
   [https://12factor.net/](https://12factor.net/)  
   Rock-solid methodology to follow when creating services
+
+### Databases
+- **MongoDB Architecture Guide**  
+  [http://s3.amazonaws.com/info-mongodb-com/MongoDB_Architecture_Guide.pdf](http://s3.amazonaws.com/info-mongodb-com/MongoDB_Architecture_Guide.pdf)  
+  A great read that goes over all the fundamental concepts of *MongoDB* and also goes into detail about their fully managed cloud database service, *MongoDB Atlas*.  
+  
