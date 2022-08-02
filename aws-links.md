@@ -107,4 +107,7 @@ Link to this GitHub Page: [https://klowdee.github.io/aws-links/aws-links.html](h
 - **MongoDB Architecture Guide**  
   [http://s3.amazonaws.com/info-mongodb-com/MongoDB_Architecture_Guide.pdf](http://s3.amazonaws.com/info-mongodb-com/MongoDB_Architecture_Guide.pdf)  
   A great read that goes over all the fundamental concepts of *MongoDB* and also goes into detail about their fully managed cloud database service, *MongoDB Atlas*.  
-  
+
+- **AWS Ramp-Up Guide: Database**  
+  [https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Databases.pdf](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Databases.pdf)  
+  List of trainings and documentation to get up to speed with databases on AWS.  
